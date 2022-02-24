@@ -1,0 +1,41 @@
+.buttons {
+    margin: 100px;
+}
+
+.buttons *{
+    display: block;
+}
+
+.search {
+    background-color: rgb(241, 241, 241);
+    width: 175px;
+    height: 30px;
+    border: 2.5px solid darkcyan;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 14pt;
+    color: darkcyan;
+    margin-bottom: 20px;
+}
+
+.add {
+    background-color: rgb(7, 201, 191);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-style: hidden;
+    text-align: center;
+    font-size: 20pt;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.create_account {
+    background-color: dodgerblue;
+    width: 200px;
+    height: 40px;
+    border: 3px solid black;
+    font-size: 13pt;
+    color: white;
+    box-shadow: 2px 2px black;
+}
